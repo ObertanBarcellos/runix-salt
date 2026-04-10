@@ -123,3 +123,29 @@
 .lang-select__menu li + li {
   margin-top: 0.1rem;
 }
+
+@media (max-width: 480px) {
+  .lang-select__trigger {
+    min-height: 44px;
+    padding: 0 0.55rem;
+    gap: 0.25rem;
+  }
+
+  .lang-select__trigger-text {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  .lang-select__menu {
+    right: 0;
+    left: auto;
+    min-width: 11rem;
+  }
+}

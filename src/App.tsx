@@ -545,22 +545,24 @@ export default function App() {
             </div>
 
             <div className="formula-card reveal">
-              <table className="formula-table">
-                <thead>
-                  <tr>
-                    <th>{t('formula.colIngredient')}</th>
-                    <th>{t('formula.colAmount')}</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {formulaRows.map((row) => (
-                    <tr key={row.name}>
-                      <td>{row.name}</td>
-                      <td>{row.amount}</td>
+              <div className="formula-table-wrap">
+                <table className="formula-table">
+                  <thead>
+                    <tr>
+                      <th>{t('formula.colIngredient')}</th>
+                      <th>{t('formula.colAmount')}</th>
                     </tr>
-                  ))}
-                </tbody>
-              </table>
+                  </thead>
+                  <tbody>
+                    {formulaRows.map((row) => (
+                      <tr key={row.name}>
+                        <td>{row.name}</td>
+                        <td>{row.amount}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
               <p className="formula-note">{t('formula.note')}</p>
             </div>
           </div>
