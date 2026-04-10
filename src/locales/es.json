@@ -1,0 +1,176 @@
+{
+  "nav": {
+    "product": "Producto",
+    "formula": "Fórmula",
+    "benefits": "Beneficios",
+    "experience": "Experiencia",
+    "science": "Ciencia"
+  },
+  "a11y": {
+    "mainNav": "Principal",
+    "mobileNav": "Móvil",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "close": "Cerrar",
+    "language": "Idioma del sitio"
+  },
+  "drawer": {
+    "title": "Navegar"
+  },
+  "hero": {
+    "kicker": "Electrolitos · endurance · Brasil",
+    "titleBrand": "RUNIX SALT+",
+    "titleLine2": "Hidratación que acompaña la carrera.",
+    "lead": "Suplemento en sobre, sin azúcar, desarrollado para apoyar hidratación, equilibrio electrolítico y recuperación — pensado para quien corre y entrena con frecuencia.",
+    "ctaPrimary": "Conocer el producto",
+    "ctaGhost": "Ver beneficios",
+    "stat1": "Apoyo fisiológico",
+    "stat2": "No es pre-entreno estimulante"
+  },
+  "marquee": "RUNIX SALT+ · REPOSICIÓN ELECTROLÍTICA · RUNNING · RECUPERACIÓN · CERO AZÚCAR · SOBRE · ",
+  "product": {
+    "eyebrow": "El producto",
+    "title": "Pensado para la reposición en la práctica del corredor",
+    "intro": "Durante el ejercicio, el sudor arrastra electrolitos clave. La combinación de Runix Salt+ contribuye a mantener hidratación, función muscular y recuperación — sin prometer milagros, con un lenguaje de apoyo a la rutina.",
+    "bullet0": "<strong>Formato sobre (stick)</strong> — práctico para llevar en la carrera, en la bici o en la mochila.",
+    "bullet1": "<strong>Cero azúcar</strong> — alineado con una propuesta deportiva limpia y con quien busca rehidratación sin calorías extra de azúcar.",
+    "bullet2": "<strong>Sin colorantes artificiales</strong> — foco en aceptación y percepción premium.",
+    "bullet3": "<strong>Narrativa clara</strong> — apoyo a hidratación y electrolitos; no es energético con cafeína ni estimulante de pre-entreno."
+  },
+  "formula": {
+    "eyebrow": "Referencia de fórmula",
+    "title": "Una base premium sugerida (por sobre)",
+    "intro": "Valores orientativos para el desarrollo con proveedor — alineados al posicionamiento carrera + palatabilidad + reposición efectiva de sodio frente a referencias de mercado citadas en el material de marca.",
+    "colIngredient": "Ingrediente",
+    "colAmount": "Cantidad",
+    "note": "El calcio puede incorporarse como ingrediente opcional según la estrategia de formulación; en la versión inicial recomendada, el foco permanece en sodio, potasio y magnesio con vitaminas de apoyo.",
+    "rows": [
+      { "name": "Sodio", "amount": "650 mg" },
+      { "name": "Potasio", "amount": "200 mg" },
+      { "name": "Magnesio", "amount": "60 mg" },
+      { "name": "Vitamina C", "amount": "60 mg" },
+      { "name": "Vitamina B6", "amount": "1,0 mg" },
+      { "name": "Vitamina B12", "amount": "2,4 mcg" }
+    ]
+  },
+  "benefits": {
+    "eyebrow": "Ingredientes y beneficios",
+    "title": "Qué aporta cada eje a tu entrenamiento",
+    "intro": "Lenguaje responsable: los ingredientes <strong>ayudan</strong> y <strong>contribuyen</strong> en el contexto de hidratación y rendimiento — las respuestas individuales varían."
+  },
+  "ingredients": [
+    {
+      "tag": "Electrolito principal",
+      "title": "Sodio (Na⁺)",
+      "optional": false,
+      "items": [
+        "Regula hidratación y equilibrio de líquidos",
+        "Contribuye a la contracción muscular y función neuromuscular",
+        "Ayuda a evitar deshidratación y mantener energía en la carrera"
+      ]
+    },
+    {
+      "tag": "Sinergia con el sodio",
+      "title": "Potasio (K⁺)",
+      "optional": false,
+      "items": [
+        "Apoyo a músculos y nervios",
+        "Contribuye al ritmo y la estabilidad en el entrenamiento",
+        "Trabaja junto al sodio en el equilibrio electrolítico"
+      ]
+    },
+    {
+      "tag": "Metabolismo y recuperación",
+      "title": "Magnesio (Mg²⁺)",
+      "optional": false,
+      "items": [
+        "Participa en la producción de energía (ATP)",
+        "Apoyo al relajamiento muscular",
+        "Contribuye a menos fatiga y recuperación post-ejercicio"
+      ]
+    },
+    {
+      "tag": "Complementario",
+      "title": "Calcio (Ca²⁺)",
+      "optional": true,
+      "items": [
+        "Papel en contracción muscular y salud ósea",
+        "Puede aportar apoyo en entrenamientos de impacto",
+        "No es el foco central de la narrativa de carrera"
+      ]
+    },
+    {
+      "tag": "Antioxidante",
+      "title": "Vitamina C",
+      "optional": false,
+      "items": [
+        "Acción antioxidante y apoyo a la recuperación",
+        "Contribuye al estrés oxidativo post-entreno",
+        "Apoyo al sistema inmunitario"
+      ]
+    },
+    {
+      "tag": "Metabolismo energético",
+      "title": "Vitaminas B6 y B12",
+      "optional": false,
+      "items": [
+        "Participan del metabolismo energético",
+        "Apoyo al sistema nervioso y disposición",
+        "Complementan el eje hidratación + electrolitos"
+      ]
+    }
+  ],
+  "experience": {
+    "eyebrow": "El efecto percibido",
+    "title": "Qué puede sentir la rutina con un uso adecuado",
+    "intro": "Cuando la fórmula y la hidratación van juntas, muchas personas perciben más consistencia en el entreno — sin promesas absolutas.",
+    "duringTitle": "Durante la carrera",
+    "duringItems": [
+      "Más sensación de resistencia",
+      "Menos caída brusca de energía",
+      "Menos sed extrema en sesiones largas"
+    ],
+    "afterTitle": "Después del entreno",
+    "afterItems": [
+      "Recuperación que parece más rápida",
+      "Menor sensación de agotamiento",
+      "Menos molestia muscular en algunos casos"
+    ],
+    "frequentTitle": "Uso frecuente",
+    "frequentItems": [
+      "Menos episodios incómodos relacionados con calambres",
+      "Más consistencia en los entrenamientos",
+      "Sensación de que “el entreno rindió más”"
+    ],
+    "notTitle": "Esto no es",
+    "notItems": [
+      "Pre-entreno estimulante",
+      "Energético a base de cafeína",
+      "Sustituto de alimentación u orientación médica"
+    ],
+    "isTitle": "Esto es",
+    "isItems": [
+      "Apoyo fisiológico a hidratación y electrolitos",
+      "Reposición alineada con endurance",
+      "Comunicación honesta: “mi carrera rinde y no me rompo al final”"
+    ]
+  },
+  "science": {
+    "eyebrow": "Fundamento",
+    "title": "Ciencia en lenguaje accesible",
+    "p1": "Runix Salt+ se pensó con base en principios de fisiología del ejercicio, para apoyar el equilibrio hidroelectrolítico, la función muscular y la recuperación en actividades como carrera y endurance.",
+    "p2": "En el ejercicio, la pérdida de electrolitos por el sudor puede afectar rendimiento, contracción muscular e hidratación. La combinación de ingredientes actúa de forma integrada: el sodio ayuda al volumen y la absorción de fluidos; el potasio y el magnesio participan en la excitabilidad muscular y el metabolismo energético; las vitaminas C, B6 y B12 aportan apoyo complementario a recuperación y metabolismo — sin restar protagonismo a los electrolitos.",
+    "p3": "Evitamos promesas absolutas. Preferimos términos como “contribuye”, “ayuda” y “apoya” — en línea con las buenas prácticas de comunicación del material de marca."
+  },
+  "cta": {
+    "title": "¿Listo para llevar Runix Salt+ a tu recta final?",
+    "body": "Contacta al equipo, conoce próximos pasos de formulación y disponibilidad. El futuro de tu hidratación empieza con una conversación.",
+    "button": "Hablar con la marca"
+  },
+  "footer": {
+    "tagline": "Runix Salt+ · suplemento de electrolitos en sobre.",
+    "disclaimer": "<strong>Aviso:</strong> Este sitio es institucional. Los suplementos no sustituyen una alimentación equilibrada. Consulta a un profesional de salud antes de iniciar cualquier suplementación. No prometemos cura ni resultado garantizado; los beneficios descritos se refieren al apoyo nutricional en el contexto de una rutina de entrenos.",
+    "rights": "© {{year}} Runix Salt+. Todos los derechos reservados."
+  },
+  "optionalTag": "Opcional · {{tag}}"
+}

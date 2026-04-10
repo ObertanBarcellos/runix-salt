@@ -1,0 +1,176 @@
+{
+  "nav": {
+    "product": "Product",
+    "formula": "Formula",
+    "benefits": "Benefits",
+    "experience": "Experience",
+    "science": "Science"
+  },
+  "a11y": {
+    "mainNav": "Main",
+    "mobileNav": "Mobile",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "close": "Close",
+    "language": "Site language"
+  },
+  "drawer": {
+    "title": "Navigate"
+  },
+  "hero": {
+    "kicker": "Electrolytes · endurance · Brazil",
+    "titleBrand": "RUNIX SALT+",
+    "titleLine2": "Hydration that keeps up with your run.",
+    "lead": "Sugar-free stick-pack supplement designed to support hydration, electrolyte balance, and recovery — for people who run and train regularly.",
+    "ctaPrimary": "Explore the product",
+    "ctaGhost": "See benefits",
+    "stat1": "Physiological support",
+    "stat2": "Not a stimulant pre-workout"
+  },
+  "marquee": "RUNIX SALT+ · ELECTROLYTE REPLENISHMENT · RUNNING · RECOVERY · ZERO SUGAR · STICK PACK · ",
+  "product": {
+    "eyebrow": "The product",
+    "title": "Built for replenishment in real running practice",
+    "intro": "During exercise, sweat carries away key electrolytes. Runix Salt+ helps support hydration, muscle function, and recovery — without overpromising, with language grounded in everyday training.",
+    "bullet0": "<strong>Stick-pack format</strong> — easy to carry on a run, ride, or in your bag.",
+    "bullet1": "<strong>Zero sugar</strong> — aligned with a clean sports positioning and people who want hydration without extra sugar calories.",
+    "bullet2": "<strong>No artificial colors</strong> — focus on acceptability and a premium feel.",
+    "bullet3": "<strong>Clear story</strong> — supports hydration and electrolytes; not a caffeine energy drink or stimulant pre-workout."
+  },
+  "formula": {
+    "eyebrow": "Formula reference",
+    "title": "A suggested premium base (per stick)",
+    "intro": "Indicative values for supplier development — aligned with the running + palatability + effective sodium replenishment positioning versus market references cited in brand materials.",
+    "colIngredient": "Ingredient",
+    "colAmount": "Amount",
+    "note": "Calcium may be included as an optional ingredient depending on formulation strategy; in the initial recommended version, the focus stays on sodium, potassium, and magnesium with supporting vitamins.",
+    "rows": [
+      { "name": "Sodium", "amount": "650 mg" },
+      { "name": "Potassium", "amount": "200 mg" },
+      { "name": "Magnesium", "amount": "60 mg" },
+      { "name": "Vitamin C", "amount": "60 mg" },
+      { "name": "Vitamin B6", "amount": "1.0 mg" },
+      { "name": "Vitamin B12", "amount": "2.4 mcg" }
+    ]
+  },
+  "benefits": {
+    "eyebrow": "Ingredients & benefits",
+    "title": "What each pillar brings to your training",
+    "intro": "Responsible wording: ingredients <strong>help</strong> and <strong>contribute</strong> in a hydration and performance context — individual responses vary."
+  },
+  "ingredients": [
+    {
+      "tag": "Primary electrolyte",
+      "title": "Sodium (Na⁺)",
+      "optional": false,
+      "items": [
+        "Helps regulate hydration and fluid balance",
+        "Supports muscle contraction and neuromuscular function",
+        "Contributes to avoiding dehydration and sustaining energy on the run"
+      ]
+    },
+    {
+      "tag": "Synergy with sodium",
+      "title": "Potassium (K⁺)",
+      "optional": false,
+      "items": [
+        "Supports muscles and nerves",
+        "Contributes to rhythm and stability during training",
+        "Works with sodium in electrolyte balance"
+      ]
+    },
+    {
+      "tag": "Metabolism & recovery",
+      "title": "Magnesium (Mg²⁺)",
+      "optional": false,
+      "items": [
+        "Involved in energy production (ATP)",
+        "Supports muscle relaxation",
+        "May contribute to less fatigue and post-exercise recovery"
+      ]
+    },
+    {
+      "tag": "Complementary",
+      "title": "Calcium (Ca²⁺)",
+      "optional": true,
+      "items": [
+        "Role in muscle contraction and bone health",
+        "May add support in impact training",
+        "Not the central focus of the running narrative"
+      ]
+    },
+    {
+      "tag": "Antioxidant",
+      "title": "Vitamin C",
+      "optional": false,
+      "items": [
+        "Antioxidant action and recovery support",
+        "Contributes to post-workout oxidative stress context",
+        "Immune system support"
+      ]
+    },
+    {
+      "tag": "Energy metabolism",
+      "title": "Vitamins B6 & B12",
+      "optional": false,
+      "items": [
+        "Participate in energy metabolism",
+        "Support the nervous system and overall readiness",
+        "Complement the hydration + electrolyte axis"
+      ]
+    }
+  ],
+  "experience": {
+    "eyebrow": "Perceived effect",
+    "title": "What your routine may feel with appropriate use",
+    "intro": "When the formula and hydration go hand in hand, many people notice more consistent training — without absolute promises.",
+    "duringTitle": "During the run",
+    "duringItems": [
+      "Greater sense of endurance",
+      "Less abrupt energy crash",
+      "Less extreme thirst on long sessions"
+    ],
+    "afterTitle": "After training",
+    "afterItems": [
+      "Recovery that feels faster",
+      "Less sense of total exhaustion",
+      "Less muscular discomfort in some cases"
+    ],
+    "frequentTitle": "Regular use",
+    "frequentItems": [
+      "Fewer uncomfortable cramp-related episodes",
+      "More consistency across workouts",
+      "A feeling that “the session delivered more”"
+    ],
+    "notTitle": "This is not",
+    "notItems": [
+      "A stimulant pre-workout",
+      "A caffeine-based energy drink",
+      "A substitute for food or medical advice"
+    ],
+    "isTitle": "This is",
+    "isItems": [
+      "Physiological support for hydration and electrolytes",
+      "Replenishment aligned with endurance",
+      "Honest communication: “my run holds up and I don’t fall apart at the end”"
+    ]
+  },
+  "science": {
+    "eyebrow": "Foundation",
+    "title": "Science in accessible language",
+    "p1": "Runix Salt+ was developed from exercise physiology principles to support fluid–electrolyte balance, muscle function, and recovery in activities like running and endurance.",
+    "p2": "During exercise, electrolyte loss through sweat can affect performance, muscle contraction, and hydration. The ingredient blend works together: sodium helps maintain fluid volume and absorption; potassium and magnesium are involved in muscle excitability and energy metabolism; vitamins C, B6, and B12 provide complementary recovery and metabolism support — without stealing the spotlight from electrolytes.",
+    "p3": "We avoid absolute claims. We prefer words like “contributes,” “helps,” and “supports” — in line with the brand’s communication best practices."
+  },
+  "cta": {
+    "title": "Ready to bring Runix Salt+ into your finishing stretch?",
+    "body": "Reach out to the team to learn about next steps in formulation and availability. The future of your hydration starts with a conversation.",
+    "button": "Contact the brand"
+  },
+  "footer": {
+    "tagline": "Runix Salt+ · electrolyte supplement in stick packs.",
+    "disclaimer": "<strong>Notice:</strong> This site is informational. Supplements are not a substitute for a balanced diet. Consult a healthcare professional before starting any supplementation. We do not promise a cure or guaranteed results; described benefits refer to nutritional support within a training routine.",
+    "rights": "© {{year}} Runix Salt+. All rights reserved."
+  },
+  "optionalTag": "Optional · {{tag}}"
+}

@@ -1,0 +1,176 @@
+{
+  "nav": {
+    "product": "Produto",
+    "formula": "Fórmula",
+    "benefits": "Benefícios",
+    "experience": "Experiência",
+    "science": "Ciência"
+  },
+  "a11y": {
+    "mainNav": "Principal",
+    "mobileNav": "Mobile",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu",
+    "close": "Fechar",
+    "language": "Idioma do site"
+  },
+  "drawer": {
+    "title": "Navegar"
+  },
+  "hero": {
+    "kicker": "Eletrólitos · endurance · Brasil",
+    "titleBrand": "RUNIX SALT+",
+    "titleLine2": "Hidratação que acompanha a corrida.",
+    "lead": "Suplemento em sachê, sem açúcar, desenvolvido para apoiar hidratação, equilíbrio eletrolítico e recuperação — com foco em quem corre e treina com frequência.",
+    "ctaPrimary": "Conheça o produto",
+    "ctaGhost": "Ver benefícios",
+    "stat1": "Suporte fisiológico",
+    "stat2": "Não é pré-treino estimulante"
+  },
+  "marquee": "RUNIX SALT+ · REPOSIÇÃO ELETROLÍTICA · CORRIDA · RECUPERAÇÃO · ZERO AÇÚCAR · SACHÊ · ",
+  "product": {
+    "eyebrow": "O produto",
+    "title": "Pensado para reposição na prática do corredor",
+    "intro": "Durante o exercício, o suor leva eletrólitos importantes. A combinação do Runix Salt+ contribui para manter hidratação, função muscular e recuperação — sem prometer milagres, com linguagem de suporte à rotina.",
+    "bullet0": "<strong>Formato sachê (stick)</strong> — prático para levar na corrida, na bike ou na mochila.",
+    "bullet1": "<strong>Zero açúcar</strong> — alinhado a uma proposta esportiva limpa e ao público que busca reidratação sem calorias extras de açúcar.",
+    "bullet2": "<strong>Sem corantes artificiais</strong> — foco em aceitabilidade e percepção premium.",
+    "bullet3": "<strong>Narrativa clara</strong> — suporte a hidratação e eletrólitos; não é energético de cafeína nem estimulante de pré-treino."
+  },
+  "formula": {
+    "eyebrow": "Referência de fórmula",
+    "title": "Uma base premium sugerida (por sachê)",
+    "intro": "Valores orientativos para desenvolvimento com fornecedor — alinhados ao posicionamento corrida + palatabilidade + reposição efetiva de sódio em relação a referências de mercado citadas no material da marca.",
+    "colIngredient": "Ingrediente",
+    "colAmount": "Quantidade",
+    "note": "O cálcio pode entrar como ingrediente opcional conforme estratégia de formulação; na versão inicial recomendada, o foco permanece em sódio, potássio e magnésio com vitaminas de suporte.",
+    "rows": [
+      { "name": "Sódio", "amount": "650 mg" },
+      { "name": "Potássio", "amount": "200 mg" },
+      { "name": "Magnésio", "amount": "60 mg" },
+      { "name": "Vitamina C", "amount": "60 mg" },
+      { "name": "Vitamina B6", "amount": "1,0 mg" },
+      { "name": "Vitamina B12", "amount": "2,4 mcg" }
+    ]
+  },
+  "benefits": {
+    "eyebrow": "Ingredientes & benefícios",
+    "title": "O que cada eixo contribui para o seu treino",
+    "intro": "Linguagem responsável: os ingredientes <strong>auxiliam</strong> e <strong>contribuem</strong> para o contexto de hidratação e performance — individualidades variam."
+  },
+  "ingredients": [
+    {
+      "tag": "Eletrólito principal",
+      "title": "Sódio (Na⁺)",
+      "optional": false,
+      "items": [
+        "Regula hidratação e equilíbrio de líquidos",
+        "Auxilia na contração muscular e função neuromuscular",
+        "Contribui para evitar desidratação e manter energia na corrida"
+      ]
+    },
+    {
+      "tag": "Sinergia com o sódio",
+      "title": "Potássio (K⁺)",
+      "optional": false,
+      "items": [
+        "Apoio a músculos e nervos",
+        "Contribui para ritmo e estabilidade no treino",
+        "Trabalha junto com o sódio no equilíbrio eletrolítico"
+      ]
+    },
+    {
+      "tag": "Metabolismo e recuperação",
+      "title": "Magnésio (Mg²⁺)",
+      "optional": false,
+      "items": [
+        "Participa da produção de energia (ATP)",
+        "Apoio ao relaxamento muscular",
+        "Contribui para menos fadiga e recuperação pós-exercício"
+      ]
+    },
+    {
+      "tag": "Complementar",
+      "title": "Cálcio (Ca²⁺)",
+      "optional": true,
+      "items": [
+        "Papel na contração muscular e saúde óssea",
+        "Pode agregar suporte em treinos de impacto",
+        "Não é o foco central da narrativa de corrida"
+      ]
+    },
+    {
+      "tag": "Antioxidante",
+      "title": "Vitamina C",
+      "optional": false,
+      "items": [
+        "Ação antioxidante e suporte à recuperação",
+        "Contribui para o estresse oxidativo pós-treino",
+        "Apoio ao sistema imunológico"
+      ]
+    },
+    {
+      "tag": "Metabolismo energético",
+      "title": "Vitaminas B6 e B12",
+      "optional": false,
+      "items": [
+        "Participam do metabolismo energético",
+        "Apoio ao sistema nervoso e disposição",
+        "Complementam o eixo hidratação + eletrólitos"
+      ]
+    }
+  ],
+  "experience": {
+    "eyebrow": "O efeito percebido",
+    "title": "O que a rotina pode sentir com uso adequado",
+    "intro": "Quando a fórmula e a hidratação caminham juntas, muitas pessoas percebem melhor consistência no treino — sem promessas absolutas.",
+    "duringTitle": "Durante a corrida",
+    "duringItems": [
+      "Mais sensação de resistência",
+      "Menos queda brusca de energia",
+      "Menos sede extrema em treinos longos"
+    ],
+    "afterTitle": "Depois do treino",
+    "afterItems": [
+      "Recuperação que parece mais rápida",
+      "Menor sensação de esgotamento",
+      "Menos desconforto muscular em alguns casos"
+    ],
+    "frequentTitle": "Uso frequente",
+    "frequentItems": [
+      "Menos episódios incômodos relacionados a cãibras",
+      "Mais consistência nos treinos",
+      "Sensação de “o treino rendeu mais”"
+    ],
+    "notTitle": "Isso não é",
+    "notItems": [
+      "Pré-treino estimulante",
+      "Energético à base de cafeína",
+      "Substituto de alimentação ou orientação médica"
+    ],
+    "isTitle": "Isso é",
+    "isItems": [
+      "Suporte fisiológico à hidratação e eletrólitos",
+      "Reposição alinhada a endurance",
+      "Comunicação honesta: “minha corrida rende mais e eu não quebro no final”"
+    ]
+  },
+  "science": {
+    "eyebrow": "Fundamentação",
+    "title": "Ciência em linguagem acessível",
+    "p1": "O Runix Salt+ foi pensado com base em princípios da fisiologia do exercício, com o objetivo de apoiar o equilíbrio hidroeletrolítico, a função muscular e a recuperação em atividades como corrida e endurance.",
+    "p2": "No exercício, a perda de eletrólitos pelo suor pode afetar desempenho, contração muscular e hidratação. A combinação dos ingredientes atua de forma integrada: o sódio ajuda na manutenção do volume e da absorção de fluidos; o potássio e o magnésio participam da excitabilidade muscular e do metabolismo energético; as vitaminas C, B6 e B12 entram como suporte complementar à recuperação e ao metabolismo — sem roubar o protagonismo dos eletrólitos.",
+    "p3": "Evitamos promessas absolutas. Preferimos termos como “contribui”, “auxilia” e “apoia” — em linha com as boas práticas de comunicação do material da marca."
+  },
+  "cta": {
+    "title": "Pronto para levar o Runix Salt+ para a sua reta final?",
+    "body": "Entre em contato com a equipe, conheça próximos passos de formulação e disponibilidade. O futuro da sua hidratação começa com uma conversa.",
+    "button": "Falar com a marca"
+  },
+  "footer": {
+    "tagline": "Runix Salt+ · suplemento de eletrólitos em sachê.",
+    "disclaimer": "<strong>Aviso:</strong> Este site é institucional. Suplementos não substituem uma alimentação equilibrada. Consulte um profissional de saúde antes de iniciar qualquer suplementação. Não prometemos cura ou resultado garantido; os benefícios descritos referem-se ao suporte nutricional no contexto de uma rotina de treinos.",
+    "rights": "© {{year}} Runix Salt+. Todos os direitos reservados."
+  },
+  "optionalTag": "Opcional · {{tag}}"
+}

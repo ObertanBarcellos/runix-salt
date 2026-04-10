@@ -1,0 +1,113 @@
+:root {
+  --highlight: #643291;
+  --highlight-soft: rgba(100, 50, 145, 0.12);
+  --highlight-mid: rgba(100, 50, 145, 0.28);
+  --text: #3d3848;
+  --text-strong: #1a1623;
+  --bg: #faf8fc;
+  --bg-elevated: #ffffff;
+  --border: rgba(100, 50, 145, 0.14);
+  --shadow: 0 24px 80px rgba(26, 22, 35, 0.08);
+  --radius: 20px;
+
+  --font: 'Outfit', system-ui, sans-serif;
+  --font-display: 'Outfit', system-ui, sans-serif;
+
+  font-family: var(--font);
+  font-size: 17px;
+  line-height: 1.55;
+  color: var(--text);
+  background: var(--bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color-scheme: only light;
+
+  /* Barra de rolagem (tema Runix) */
+  --scrollbar-track: #ede4f5;
+  --scrollbar-thumb: linear-gradient(
+    180deg,
+    #7b4aa3 0%,
+    #643291 45%,
+    #4f2d73 100%
+  );
+  --scrollbar-thumb-hover: linear-gradient(
+    180deg,
+    #8b5cb8 0%,
+    #6b3a9e 50%,
+    #532080 100%
+  );
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: auto;
+  scrollbar-gutter: stable;
+  scrollbar-width: thin;
+  scrollbar-color: #643291 var(--scrollbar-track);
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+/* Chromium / Safari / Edge — barra lateral customizada */
+html::-webkit-scrollbar {
+  width: 11px;
+}
+
+html::-webkit-scrollbar-track {
+  background: linear-gradient(
+    180deg,
+    var(--scrollbar-track) 0%,
+    #f5eefb 50%,
+    var(--scrollbar-track) 100%
+  );
+  border-left: 1px solid rgba(100, 50, 145, 0.12);
+}
+
+html::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  border: 2px solid var(--scrollbar-track);
+  background: var(--scrollbar-thumb);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.22),
+    0 2px 8px rgba(100, 50, 145, 0.25);
+}
+
+html::-webkit-scrollbar-thumb:hover {
+  background: var(--scrollbar-thumb-hover);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.28),
+    0 4px 14px rgba(100, 50, 145, 0.35);
+}
+
+html::-webkit-scrollbar-thumb:active {
+  background: linear-gradient(180deg, #532080 0%, #3d1f5c 100%);
+}
+
+html::-webkit-scrollbar-corner {
+  background: var(--scrollbar-track);
+}
+
+#root {
+  width: 100%;
+  min-height: 100svh;
+}
+
+a {
+  color: var(--highlight);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
